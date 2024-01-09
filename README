@@ -3,6 +3,19 @@ st - simple terminal
 st is a simple terminal emulator for X which sucks less.
 
 
+Applied patches
+---------------
+- alpha
+- font2
+- anysize
+- boxdraw v2
+- vertcenter
+- anygeometry
+- bold is not bright
+- glyph wide support
+- xresources signal reloading
+
+
 Requirements
 ------------
 In order to build st you need the Xlib header files.
